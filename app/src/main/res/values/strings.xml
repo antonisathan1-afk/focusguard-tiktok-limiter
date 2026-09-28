@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FocusGuard</string>
+    <string name="accessibility_service_description">بيراقب وقت استخدام التطبيقات المحددة (زي TikTok) وبيقفلها مؤقتًا لما تتخطى الحد المسموح.</string>
+</resources>
